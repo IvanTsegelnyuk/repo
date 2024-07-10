@@ -6,5 +6,6 @@ public class App {
         System.out.println("Открытие магазина ожидается через 2 месяца");
         System.out.println("------------------");
         System.out.println("Открытие магазина ожидается через 4 дня");
+        System.out.println("new text in feature -b");
     }
 }
